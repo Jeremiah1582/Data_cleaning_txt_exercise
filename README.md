@@ -27,8 +27,8 @@ This exercise introduces you to file I/O operations in Python, string manipulati
 
 
 # TestCase
-<!-- 
-----cleaned_book_title.txt Output ----
+
+**----cleaned_book_title.txt Output ----**
 
 The Silent Nights
 Dreaming In 
@@ -42,12 +42,12 @@ Evolution Of G To G
 Decades To Millennia
 
 
- ----Terminal Output -----
+**----Terminal Output -----**
 Top 3 most common words and their counts:
 In: 4
 Of: 2
 G: 2
- -->
+
 
 
 
