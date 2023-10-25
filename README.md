@@ -5,7 +5,7 @@ You've been given a text file that contains the titles of all the books that wil
 
 # Given Data:
 
-A text file named book_titles.txt is found in the file_folder in the root dir
+A text file named book_titles.txt is found in the uncleaned in the root dir
 
 # Task:
 
@@ -14,7 +14,7 @@ Using list comprehension,
 2) extract and clean the titles:
 - Removing any numbers.
 - Capitalizing the first letter of each word in the titles.
-3) Write the cleaned titles back to a new file named cleaned_book_titles.txt.
+3) Write the cleaned titles back to a new file named cleaned_book_titles.txt in the cleaned folder.
 
 # Bonus Challenge: **senior**
 Find out which words are most commonly used in the book titles and list the top three.
