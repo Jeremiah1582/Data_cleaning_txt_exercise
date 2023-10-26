@@ -31,24 +31,24 @@ This exercise introduces you to file I/O operations in Python, string manipulati
 
 **----cleaned_book_title.txt Output ----**
 
-The Silent Nights
-Dreaming In 
-Purple Hibiscus
-Python In 
-Memories From 
-Adventures In  Cities
-Future Of 
-A Day In  Hours
-Evolution Of G To G
-Decades To Millennia
+- The Silent Nights
+- Dreaming In 
+- Purple Hibiscus
+- Python In 
+- Memories From 
+- Adventures In  Cities
+- Future Of 
+- A Day In  Hours
+- Evolution Of G To G
+- Decades To Millennia
 .....
 
 
 **----Terminal Output -----**
-Top 3 most common words and their counts:
-In: 4
-Of: 2
-G: 2
+- Top 3 most common words and their counts:
+- In: 4
+- Of: 2
+- G: 2
 
 
 
