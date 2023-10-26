@@ -17,7 +17,8 @@ Using list comprehension,
 3) Write the cleaned titles back to a new file named cleaned_book_titles.txt in the cleaned folder.
 
 # Bonus Challenge: **senior**
-Find out which words are most commonly used in the book titles and list the top three.
+1) Common Words: Find out which words are most commonly used in the book titles and list the top three.
+2) Generator func: We now know that Generator functions save memory, for this bonus task you are required to Optimize your functions to handle LARGE DATA SETS! (e.g. 1000's of book titles) by converting your functions into generator functions. (Note: The solutions provided will not show you generator functions)
 
 # Hint:
 You might want to use the split() function on strings and the Counter class from the collections module to help with the bonus challenge.
@@ -32,7 +33,7 @@ This exercise introduces you to file I/O operations in Python, string manipulati
 
 The Silent Nights
 Dreaming In 
-Sky Without Stars
+Purple Hibiscus
 Python In 
 Memories From 
 Adventures In  Cities
@@ -40,6 +41,7 @@ Future Of
 A Day In  Hours
 Evolution Of G To G
 Decades To Millennia
+.....
 
 
 **----Terminal Output -----**
